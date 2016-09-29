@@ -1,4 +1,6 @@
 this is ashish file created in ubuntu aws. and i am pushing it to the git hub
 
-i have edited this a file from windows git bash. and i am commiting it to the Github 
-i
+i have edited this a file from windows git bash. and i am commiting it to the Github.
+
+this line has been created from gitbash at 12.:11 pm 09/29/2016
+
